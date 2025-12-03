@@ -104,11 +104,14 @@ public class VisionSubsystem extends SubsystemBase {
   }
 
   private void testProblem2() {
-    System.out.println("sri is def FURRY");
+    System.out.println("yo3");
   }
-
   public static void hello(){
     System.out.println("This prints");
+  }
+
+  public static void imNotAFurry() {
+    System.out.println("Sriharsha isn't a furry.");
   }
 
   @Override
