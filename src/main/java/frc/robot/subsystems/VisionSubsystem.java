@@ -103,6 +103,10 @@ public class VisionSubsystem extends SubsystemBase {
     checkForNewIds();
   }
 
+  private void problemTest1() {
+    System.out.println("yo");
+  }
+
   @Override
   public void simulationPeriodic() {
     // This method will be called once per scheduler run during simulation
