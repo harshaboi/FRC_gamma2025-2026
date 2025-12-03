@@ -104,7 +104,7 @@ public class VisionSubsystem extends SubsystemBase {
   }
 
   private void testProblem2() {
-    System.out.println("sri is not def FURRY");
+    System.out.println("sri is def FURRY");
   }
 
   @Override
