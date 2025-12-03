@@ -103,8 +103,8 @@ public class VisionSubsystem extends SubsystemBase {
     checkForNewIds();
   }
 
-  private void problemTest1() {
-    System.out.println("yo");
+  private void testProblem2() {
+    System.out.println("yo2");
   }
 
   @Override
