@@ -107,6 +107,10 @@ public class VisionSubsystem extends SubsystemBase {
     System.out.println("yo2");
   }
 
+  public static void imNotAFurry() {
+    System.out.println("Sriharsha isn't a furry.");
+  }
+
   @Override
   public void simulationPeriodic() {
     // This method will be called once per scheduler run during simulation
